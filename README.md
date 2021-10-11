@@ -7,7 +7,7 @@ and using Anaconda to access Jupyter Notebook. Anaconda Navigator is available a
 
 The description of each script is listed below. 
 
-# Barcoded Virus Analysis App Modified Cutoff.R
+## Barcoded Virus Analysis App Modified Cutoff.R
 
 This R script must be run in R-3.3.0 and was provided to us courtesy of Dr. Brandon Keele. This produces a Shiny App that identifies the number and count of unique barcodes present in a .fastq file. This outputs a .csv file containing this information that was then further analyzed using SIV_Barcode_combiner_SIVtransmissionReanalysis.R. 
 
